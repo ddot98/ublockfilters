@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+! Title: Slashdot
+! Last modified: 8 Sept 2020
+! -----------------------General advert blocking filters-----------------------!
+
+m.slashdot.org https://a.fsdn.com script allow
+m.slashdot.org###carousel
+m.slashdot.org##.river-prop > .header
+m.slashdot.org##.river-tabs
+m.slashdot.org###recent-poll
+m.slashdot.org###footer

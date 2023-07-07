@@ -1,0 +1,20 @@
+[Adblock Plus 2.0]
+! Title: Other Filters
+! Last modified: 16 July 2020
+! -----------------------General advert blocking filters-----------------------!
+
+9c9media.com
+akamaized.net
+scribblelive.com
+cnevids.com
+cloudfront.net/player/
+pay.google.com
+wired.com/player/
+autoplay
+gstatic.com/recaptcha/
+articlePlayerNavigation$script
+videoNavigation$script
+youtube.com/embed/
+brightcove
+typekit.net
+auth.adobe.com

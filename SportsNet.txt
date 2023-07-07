@@ -1,0 +1,12 @@
+[Adblock Plus 2.0]
+! Title: SportsNet
+! Last modified: 13 Aug 2020
+! -----------------------General advert blocking filters-----------------------!
+
+www.sportsnet.ca##.js_smartbanner.smartbanner--android.smartbanner
+www.sportsnet.ca/*/radio/$script
+www.sportsnet.ca/*.SNPlayer$script
+www.sportsnet.ca/*/mediaelement/
+www.sportsnet.ca/*/brightcove.css
+www.sportsnet.ca/*viafoura$script
+www.sportsnet.ca/*/plugins/

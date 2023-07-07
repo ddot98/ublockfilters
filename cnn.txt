@@ -1,0 +1,17 @@
+[Adblock Plus 2.0]
+! Title: CNN
+! Last modified: 4 Mar 2021
+! -----------------------General advert blocking filters-----------------------!
+
+||warnermediacdn.com*^$domain=www.cnn.com
+||www.i.cdn.cnn.com/.a/bundles/video*
+||cdn.cnn.com/ads/*
+||www.i.cdn.cnn.com^$script
+||middycdn-a.akamaihd.net^$domain=www.cnn.com
+||www.cnn.com/data/ocs/container/*$domain=www.cnn.com
+||registry.api.cnn.io^$domain=www.cnn.com
+||widgets.outbrain.com^$domain=www.cnn.com,important
+||data.cnn.com/breaking_news/*$domain=www.cnn.com
+||www.cnn.com/.asset/*min.js$script,domain=www.cnn.com
+www.cnn.com###footer-nav-container
+www.cnn.com###large-media > .l-container

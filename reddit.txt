@@ -1,0 +1,25 @@
+[Adblock Plus 2.0]
+! Title: Reddit
+! Last modified: 16 July 2020
+! -----------------------General advert blocking filters-----------------------!
+
+favicon/manifest.json$other
+
+www.reddit.com##.m-active.XPromoPopup
+##.mobile-web-redirect-bar
+
+https://www.reddit.com/sw-mweb.js
+comment.json
+/api/vote
+register.json
+share.json
+/api/comment
+friend.json
+login.json
+api/share
+api/friend
+/api/submit
+
+@@https://www.redditstatic.com/mobile$script
+
+i.reddit.com##[class*="stickied"]

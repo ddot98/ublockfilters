@@ -1,0 +1,27 @@
+[Adblock Plus 2.0]
+! Title: RFD
+! Last modified: 17 July 2020
+! -----------------------General advert blocking filters-----------------------!
+
+print.css$stylesheet,domain=redflagdeals.com
+font-awesome$stylesheet,domain=redflagdeals.com
+smartbanner.css$stylesheet,domain=redflagdeals.com
+
+forums.redflagdeals.com###site_header
+forums.redflagdeals.com##.forums_nav
+forums.redflagdeals.com##.thread_header_titleinfo > .thread_tools
+forums.redflagdeals.com##.thread_header_actions
+forums.redflagdeals.com##.actionbar_original_post.actionbar_wrapper > .actionbar
+forums.redflagdeals.com##.primary_content > form
+forums.redflagdeals.com##.forum_jump
+forums.redflagdeals.com##.sidebar_content
+forums.redflagdeals.com###site_footer
+forums.redflagdeals.com##li.sticky.topic.row:nth-of-type(1)
+forums.redflagdeals.com##li.sticky.topic.row:nth-of-type(2)
+forums.redflagdeals.com##li.sticky.topic.row:nth-of-type(3)
+forums.redflagdeals.com##li.sticky.topic.row:nth-of-type(4)
+forums.redflagdeals.com##.forums_tabbar
+forums.redflagdeals.com##.bar-top.action-bar
+forums.redflagdeals.com##.guest_intro.message
+
+forums.redflagdeals.com##[class^="profile_avatar"]

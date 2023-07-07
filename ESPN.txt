@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Title: ESPN
+! Last modified: 14 June 2021
+! -----------------------General advert blocking filters-----------------------!
+
+espncdn.com/connected-devices/
+registerdisney.go.com
+espncdn.com
+@@cdn1.espn.net/*/espnfitt.js$script
+@@cdn1.espn.net/*/espn-en.js$script
+@@cdn1.espn.net/*/schedule.js$script
+@@||edge-geo.nc0.co^$script,domain=www.espn.com
+@@||cdn1.espn.net/*/scoreboard.js$script,domain=www.espn.com

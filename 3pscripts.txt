@@ -1,0 +1,10 @@
+[Adblock Plus 2.0]
+! Title: 3rd Party Scripts
+! Last modified: 3 Mar 2021
+! -----------------------General advert blocking filters-----------------------!
+
+*$script,third-party
+@@redditstatic.com/mobile$script
+@@redditstatic.com/compact$script
+@@redditstatic.com/reddit-ini$script
+@@fsdn.com/sd/m/assets/$script,domain=slashdot.org

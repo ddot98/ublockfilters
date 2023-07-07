@@ -1,0 +1,17 @@
+[Adblock Plus 2.0]
+! Title: CTVNews
+! Last modified: 29 July 2020
+! -----------------------General advert blocking filters-----------------------!
+
+www.ctvnews.ca##.breakingNews
+www.ctvnews.ca##.playa
+www.ctvnews.ca##.sideItems
+www.ctvnews.ca##.polopoly_embed
+www.ctvnews.ca##.form-submit
+www.ctvnews.ca##.clearfix > div:nth-of-type(4)
+www.ctvnews.ca##.sidebar
+www.ctvnews.ca##.content-footer
+www.ctvnews.ca##.slider-title
+www.ctvnews.ca##.blue-box
+www.ctvnews.ca##COVID-19-Promo
+www.ctvnews.ca##.live-now

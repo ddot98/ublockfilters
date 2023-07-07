@@ -1,0 +1,10 @@
+[Adblock Plus 2.0]
+! Title: High Bandwidth
+! Last modified: 16 July 2020
+! -----------------------General advert blocking filters-----------------------!
+
+*$object
+*$font
+*$media
+*$websocket
+*$webrtc

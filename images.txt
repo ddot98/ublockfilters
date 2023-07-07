@@ -1,0 +1,7 @@
+[Adblock Plus 2.0]
+! Title: Images
+! Last modified: 16 July 2020
+! -----------------------General advert blocking filters-----------------------!
+
+*$image
+

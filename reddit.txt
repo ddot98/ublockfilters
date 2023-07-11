@@ -7,6 +7,7 @@ favicon/manifest.json$other
 
 www.reddit.com##.m-active.XPromoPopup
 ##.mobile-web-redirect-bar
+##.commentsignupbar__textarea
 
 https://www.reddit.com/sw-mweb.js
 comment.json

@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Reddit
+! Title: EdmontonJournal
 ! Last modified: 11 July 2023
 ! -----------------------General advert blocking filters-----------------------!
 

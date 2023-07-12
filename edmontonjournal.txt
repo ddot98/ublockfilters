@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Title: Reddit
+! Last modified: 11 July 2023
+! -----------------------General advert blocking filters-----------------------!
+
+edmontonjournal.com##.col-xs-12.header-breaking__message
+edmontonjournal.com###header > .fluid.row
+edmontonjournal.com##.header--offset.subscribe.p-x-md.p-y-xs.hidden-small-up
+edmontonjournal.com##.promotional.header--offset.header-breaking__wrapper > .p-x-0.fluid.row
+edmontonjournal.com##.promotional.header--offset.header-breaking__wrapper
+edmontonjournal.com##.header--offset.header
+edmontonjournal.com##.video-playlist__title
+edmontonjournal.com##.hero-feed__widget.col-lg-4.col-sm-12.col-xs-12

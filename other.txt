@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Other Filters
-! Last modified: 16 July 2020
+! Last modified: July 13, 2023
 ! -----------------------General advert blocking filters-----------------------!
 
 9c9media.com
@@ -18,3 +18,14 @@ youtube.com/embed/
 brightcove
 typekit.net
 auth.adobe.com
+
+
+!osnews
+www.osnews.com###simple-banner > .simple-banner-text
+www.osnews.com###regular-header
+
+!Wired
+www.wired.com##.hShqfM.UnitWrapper-fxkmrs
+www.wired.com##.modal-wrapper.iGfTHD.ModalOverlay-btYqZg
+www.wired.com###coral_thread > div
+www.wired.com##.cm-nav-cta-anchor

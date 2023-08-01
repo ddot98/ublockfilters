@@ -7,5 +7,6 @@
 @@redditstatic.com/mobile$script
 @@redditstatic.com/compact$script
 @@redditstatic.com/reddit-ini$script
+@@redditstatic.com/reddit.en$script
 @@fsdn.com/sd/m/assets/$script,domain=slashdot.org
 @@fsdn.com/con/js/$script,domain=slashdot.org

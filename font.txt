@@ -1,0 +1,5 @@
+[Adblock Plus 2.0]
+! Title: Font
+! Last modified: 28 August 2023
+
+*$font

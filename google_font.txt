@@ -5,3 +5,4 @@
 */fonts.gstatic.com/s/roboto/*$font
 */fonts.gstatic.com/s/raleway/*$font
 */fonts.gstatic.com/s/robotoslab/*$font
+*/fonts.gstatic.com/s/montserrat/*$font

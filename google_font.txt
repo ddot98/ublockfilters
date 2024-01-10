@@ -2,7 +2,7 @@
 ! Title: GoogleFont
 ! Last modified: 29 August 2023
 
-*/fonts.gstatic.com/s/roboto/*$font
-*/fonts.gstatic.com/s/raleway/*$font
-*/fonts.gstatic.com/s/robotoslab/*$font
-*/fonts.gstatic.com/s/montserrat/*$font
+*/fonts.gstatic.com/s/roboto/*$font,domain=~google.com|~google.ca
+*/fonts.gstatic.com/s/raleway/*$font,domain=~google.com|~google.ca
+*/fonts.gstatic.com/s/robotoslab/*$font,domain=~google.com|~google.ca
+*/fonts.gstatic.com/s/montserrat/*$font,domain=~google.com|~google.ca

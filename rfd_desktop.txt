@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+! Title: RFD Desktop
+! Last modified: Jan 10, 2024
+! -----------------------General advert blocking filters-----------------------!
+
+c.amazon-adsystem.com$script,domain=redflagdeals.com
+config.htplayground.com$script,domain=redflagdeals.com
+assets.rfdcontent.com/js/rfd/v33.36.143/libraries/analytics/$script,domain=redflagdeals.com
+
+forums.redflagdeals.com###primisPlayerContainerDiv
+forums.redflagdeals.com##.ad_box.forum_topic_inline_container_desktop

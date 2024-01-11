@@ -6,3 +6,4 @@
 */fonts.gstatic.com/s/raleway/*$font,domain=~google.com|~google.ca
 */fonts.gstatic.com/s/robotoslab/*$font,domain=~google.com|~google.ca
 */fonts.gstatic.com/s/montserrat/*$font,domain=~google.com|~google.ca
+*/fonts.gstatic.com/s/opensans/*$font,domain=~google.com|~google.ca

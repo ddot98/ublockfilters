@@ -1,0 +1,9 @@
+[Adblock Plus 2.0]
+! Title: Gasbuddy_Desktop
+! Last modified: Jan 10, 2024
+! -----------------------General advert blocking filters-----------------------!
+
+www.gasbuddy.com##.top-buffer-md.container-fluid
+www.gasbuddy.com##.linkGroups
+www.gasbuddy.com##.top-buffer-md.footer
+www.gasbuddy.com##.body-container.top-buffer-md > .copy-width.container

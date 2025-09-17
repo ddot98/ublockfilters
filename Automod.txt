@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Title: Automod
+! Last modified: 17 Sept 2025
+! -----------------------Filters-----------------------!
+
+old.reddit.com##.comment[data-author="AutoModerator"]
+old.reddit.com##.comment[data-author*="mod"]
+old.reddit.com##.comment[data-author*="bot"]
